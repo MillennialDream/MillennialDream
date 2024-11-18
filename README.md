@@ -48,4 +48,6 @@ Welcome to my GitHub! I'm Vishal, a **Software Engineer** with **8+ years of exp
 ---
 
 ## 📬 **Connect With Me**
-✉️ **Email:** cynobiway@gmail.com  
+💼 **LinkedIn:** [linkedin.com/in/vishal-sultane](https://linkedin.com/in/vishal-sultane) 
+✉️ **Email:** vishalsultane2@gmail.com  
+
